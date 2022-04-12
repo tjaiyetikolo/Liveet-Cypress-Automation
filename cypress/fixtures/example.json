@@ -1,0 +1,42 @@
+{
+  "email": "quales01",
+  "password": "quales",
+  "organiserName": "Built Foster",
+  "organiserEmail": "teresr1234@gmail.com",
+  "organiserPhone": "08012345678",
+  "organiserAddress": "Abuja, Nigeria",
+  "organiserUsername": "beefoster",
+  "updatedUsername": "12abcded",
+  "organiserPassword": "1234",
+  "eventName": "Automation at its finest",
+  "eventDate": "05/07/2022 12:00 AM",
+  "venue": "Abuja, Nigeria",
+  "eventDesc": "A calm fun filled night",
+  "ticketName": "Basic",
+  "ticketPop": "1",
+  "stopTicket": "02/05/2022 12:00 AM",
+  "stopEvent": "05/08/2022 12:00 AM",
+  "createTicketName": "Ultra",
+  "ticketCost": "500",
+  "ticketDiscount": "100",
+  "ticketDesc": "A calm fun filled night ultra",
+  "staffFullname": "Kesinat Foster",
+  "staffUsername": "kesfos",
+  "staffEmail": "Kesfos@gmail.com",
+  "staffPassword": "1234",
+  "staffUsernameUpdate": "fosk",
+  "ticketPlan": "Foster Bundle Plus Ultra",
+  "minPop": "1",
+  "maxPop": "2",
+  "totalCost": "500",
+  "turnstileCost": "1000",
+  "bundleName": "Nanon Bundle",
+  "bundleYears": "4",
+  "bundleMonths": "3",
+  "bundleDays": "45",
+  "bundleCost": "6000"
+
+
+
+
+}
